@@ -15,6 +15,14 @@ We have added five features:
 
 My system can perform the following actions:
 1. Generate bills
-2. Update inventory for sales
+2. Update inventory 
 3. Purchase of items
 4. Adding items to inventory
+
+#About me
+I'm a second year student pursuing a Btech degree electronics and communication engineering. This is my first project as part of the ETG Skill India internship program and I hope to do more such projects in the future. I have amateur interests in AI and data science and aim to make to further these interests.
+
+#Ways to contact me
+
+LinkedIn : https://www.linkedin.com/in/arkaprava-majee-022157190/?originalSubdomain=in
+Instagram : https://www.instagram.com/_the_darkside_9/
