@@ -25,4 +25,5 @@ I'm a second year student pursuing a Btech degree electronics and communication 
 #Ways to contact me
 
 LinkedIn : https://www.linkedin.com/in/arkaprava-majee-022157190/?originalSubdomain=in
+
 Instagram : https://www.instagram.com/_the_darkside_9/
