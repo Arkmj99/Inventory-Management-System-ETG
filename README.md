@@ -15,6 +15,6 @@ We have added five features:
 
 My system can perform the following actions:
 1. Generate bills
-2. Update inventory 
+2. Update inventory for sales
 3. Purchase of items
 4. Adding items to inventory
