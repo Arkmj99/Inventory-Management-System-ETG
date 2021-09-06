@@ -20,6 +20,7 @@ My system can perform the following actions:
 4. Adding items to inventory
 
 #About me
+
 I'm a second year student pursuing a Btech degree electronics and communication engineering. This is my first project as part of the ETG Skill India internship program and I hope to do more such projects in the future. I have amateur interests in AI and data science and aim to make to further these interests.
 
 #Ways to contact me
